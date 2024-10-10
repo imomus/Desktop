@@ -126,6 +126,6 @@ int SimInt(double q, double t)
             break;
     }
     return(0);
-
-
 }
+//an advanced version of the same is coming soon where you will be able to store the pin permanently and you have to register inorder to avial 
+//the services and verify it with the otp send to your phone number and email.
